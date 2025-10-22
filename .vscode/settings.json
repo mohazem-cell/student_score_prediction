@@ -1,0 +1,36 @@
+{
+  "jupyter.kernels.filter": [
+    {
+      "path": "m:\\Anaconda\\New folder\\Scripts\\conda.exe",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "c:\\Users\\moham\\AppData\\Roaming\\jupyter\\kernels\\deepgpu\\kernel.json",
+      "type": "jupyterKernelspec"
+    },
+    {
+      "path": "c:\\Users\\moham\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "c:\\Users\\moham\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\python.exe",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "c:\\Users\\moham\\Desktop\\Visual studio code\\Python\\New folder\\python.exe",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "c:\\Python312\\python.exe",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "n:\\Python\\python.exe",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "n:\\Elevvo\\Student Score Prediction\\Student_Score_prediction\\student_score_prediction\\Scripts\\python.exe",
+      "type": "pythonEnvironment"
+    }
+  ]
+}
